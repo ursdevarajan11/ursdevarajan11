@@ -18,7 +18,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=ursdevarajan11&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/ursdevarajan11?label=FOLLOWERS&style=for-the-badge&color=8B5CF6" />
-<img src="https://img.shields.io/github/stars/ursdevarajan11?label=TOTAL%20STARS&style=for-the-badge&color=FACC15" />
 
 </div>
 
