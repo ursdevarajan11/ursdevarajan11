@@ -208,7 +208,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 
-<a href="YOUR-PORTFOLIO-URL">
+<a href="https://devaraja-rajan-portfolio.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </a>
 
